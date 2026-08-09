@@ -1,0 +1,12 @@
+name: PotatoQuests
+version: 1.0
+description: Quests for a minecraft server PotatoGames
+author: PotatoGames
+main: com.potatoquests.Main
+api-version: 1.13
+
+commands:
+  quest:
+    description: Открыть меню квестов
+    usage: /quest
+    aliases: [quests, q]
